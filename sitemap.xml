@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://shchukina-yoga.ru/</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://shchukina-yoga.ru/assets/img/tatyana-shchukina-portrait.webp</image:loc></image:image>
+    <image:image><image:loc>https://shchukina-yoga.ru/assets/img/yoga-side-stretch-moon.webp</image:loc></image:image>
+    <video:video>
+      <video:thumbnail_loc>https://shchukina-yoga.ru/assets/img/vizitka-poster.webp</video:thumbnail_loc>
+      <video:title>Татьяна Щукина — видео-визитка</video:title>
+      <video:description>Тренер по йоге и пилатесу рассказывает о себе и занятиях.</video:description>
+      <video:content_loc>https://shchukina-yoga.ru/assets/video/vizitka.mp4</video:content_loc>
+      <video:duration>49</video:duration>
+    </video:video>
+  </url>
+</urlset>
