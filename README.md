@@ -59,7 +59,3 @@
 <img width="3200" height="2580" alt="design-system" src="https://github.com/user-attachments/assets/4514f8b2-50cf-4f7b-86a0-58380e7304fd" />
 
 
-## Контакты тренера
-
-- Telegram: [@shuka_yoga](https://t.me/shuka_yoga)
-- WhatsApp: [+7 952 621-24-72](https://wa.me/79526212472)
