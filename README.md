@@ -14,9 +14,9 @@
 ### Шрифты — Google Fonts
 - **Literata** — вариативный шрифт с оптическим размером (`opsz`) для заголовков и цитат
 - **Onest** — современный гротеск с отличной кириллицей для текста и интерфейса
-- `preconnect` и `display=swap`
 
-<img width="3200" height="2580" alt="design-system" src="https://github.com/user-attachments/assets/7c2d7ea1-3f8e-43e0-915b-6ccae5344c8c" />
+<img width="3200" height="2000" alt="mockups" src="https://github.com/user-attachments/assets/2f555c71-cb88-497c-ae6b-313e405dc013" />
+
 
 ### SEO
 - `title`, `description`, `keywords`, `robots`
